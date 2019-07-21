@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name : Hussein Muhammad El-Sayed				  %
+% Name : Hussein Muhammad El-Sayed		  %
 % Academic Year : 4th Computer Engineering 2019   %
-% Date : 24-4-2019								  %
+% Date : 24-4-2019				  %
 % Projct : Simple parser for c++ Language         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
