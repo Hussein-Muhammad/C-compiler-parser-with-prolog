@@ -1,0 +1,30 @@
+int main(){
+
+	int x = 10 ;
+	char a = 'c' ;
+	float y , z ;
+
+    if( x > 10 ){
+   		 x ++ ;
+    }  
+    else{
+    
+	    y *= 10 + 90.0 ;
+
+	    while( x < 20 ){
+	    			x ++ ; y++ ;
+	    			if(x< y/2.0)	x = y+2;
+	    			cout << x ;
+
+	    		}
+
+	    do{
+	    	z += y * 10.5 ;
+	    	zx = z - 1 ;
+	    }while( ( x > 10 ) || (x < 50.5 )) ;
+
+	    x=5+3564-y*9;int x=10;
+    }
+
+    return 0;
+}
